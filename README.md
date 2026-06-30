@@ -27,8 +27,7 @@ This project was built as a portfolio project to demonstrate real-world Flutter 
 - Home Screen (Task List)
 - Add Task Screen
 
-## 🚀 Getting Started
+## Pictures
+<img width="1881" height="3072" alt="1" src="https://github.com/user-attachments/assets/3a7c52a6-2f62-463f-8d43-06ce8b4c26fa" />
 
-```bash
-flutter pub get
-flutter run
+
